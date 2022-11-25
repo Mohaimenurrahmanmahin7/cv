@@ -1,0 +1,16 @@
+*{margin: 0;padding: 0;}
+body{background-color: rgb(17, 159, 210);font-family: sans-serif;}
+.container{background-color:wheat;max-width: 1200px;margin: 0px auto;padding:20px;}
+.e{width: 100px;height:120;padding:10px;}
+.u{float: left;}
+.i {float: right;font-size:20px;text-decoration: none;}
+.e{float: left;border-radius: 50%;}
+.i a{text-decoration:none;color: rgb(247, 0, 0);}
+.i :hover{color: tomato;}
+.clear{clear: both;}
+.left{float: left; width: 30%;}
+.right{float: left;width: 70%;}
+.jj{padding: 30px;padding: ;}
+.loi{border: 4px black solid;}
+.lo{border:2px black solid;;}
+.nm{text-align: justify;padding: 30px;}
